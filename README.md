@@ -1,6 +1,6 @@
 # Passwordlist-by-security-sys-
 what is this script?:
-an script for passwordlist its not improved yet im still working 
+an script for passwordlist its not improved yet
 
 how to use this script?:
 1 download python from https://python.org/
