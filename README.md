@@ -15,5 +15,5 @@ and that's it today
 Question:why did you create this script
 Answer:because im bored and i create this for fun
 
-Question:you will add new updates and improvements to this script? 
+Question:you will add updates and improvements to this script? 
 Answer:yes i do
