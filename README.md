@@ -17,5 +17,7 @@ Answer:because im bored and i create this for fun
 
 Question:you will add updates and improvements to this script? 
 Answer:yes i do
+
 discord:real39202#2661 
+
 tell me in discord if you have error or problem
